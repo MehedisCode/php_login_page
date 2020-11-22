@@ -1,0 +1,2 @@
+Create a database name : login1
+and Create a table name : users
